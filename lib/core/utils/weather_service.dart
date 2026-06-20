@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:flutter_dotenv/flutter_dotenv.dart';
+import 'app_config.dart';
 import 'package:flutter/foundation.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:http/http.dart' as http;
@@ -55,7 +55,7 @@ class WeatherData {
 }
 
 class WeatherService {
-  String get _apiKey => dotenv.get('OPENWEATHER_API_KEY');
+  static const String _apiKey = AppConfig.openWeatherApiKey;
 
   Future<WeatherData?> getLocalWeather() async {
     try {
