@@ -1,0 +1,199 @@
+{
+  "plant_disease": [
+    {
+      "name": "apple apple scab",
+      "symptoms": "Olive-green to black spots on leaves, which become velvety and brown over time. Fruit develops circular brown/black spots that can crack.",
+      "management": "Prune infected branches, clear fallen leaves, and apply copper-based fungicides during the green tip phase."
+    },
+    {
+      "name": "apple black rot",
+      "symptoms": "Reddish-brown spots on leaves (frogeye leaf spot), sunken black cankers on branches, and dry rot on fruit with concentric zones.",
+      "management": "Remove dead wood and mummified fruit, prune cankers, and apply protective fungicides during early season."
+    },
+    {
+      "name": "apple cedar apple rust",
+      "symptoms": "Bright orange-yellow spots on upper leaf surfaces. Tubular spore cups develop on leaf undersides and fruit.",
+      "management": "Remove nearby cedar trees (alternative host), plant rust-resistant cultivars, and apply fungicides at bud break."
+    },
+    {
+      "name": "apple healthy",
+      "symptoms": "Leaves are lush green, firm, and free of blemishes. Tree shows good growth and fruit development.",
+      "management": "Continue regular watering, pruning, fertilizing, and monitoring for pests."
+    },
+    {
+      "name": "blueberry healthy",
+      "symptoms": "Deep green leaves with healthy stems and abundant flowering/fruiting. No visible leaf spots.",
+      "management": "Maintain acidic soil pH (4.5-5.5), mulch root zone, and provide regular moisture."
+    },
+    {
+      "name": "cherry including sour powdery mildew",
+      "symptoms": "White, powdery fungal patches on leaves and young shoots, causing leaf curling and stunted growth.",
+      "management": "Prune to improve airflow, avoid overhead watering, and apply sulfur-based fungicides."
+    },
+    {
+      "name": "cherry including sour healthy",
+      "symptoms": "Foliage is green and vibrant. No signs of fungal leaf spots, powdery residue, or cankers.",
+      "management": "Keep soil well-drained, prune annually for sunlight penetration, and apply fertilizer in spring."
+    },
+    {
+      "name": "corn maize cercospora leaf spot gray leaf spot",
+      "symptoms": "Long, rectangular, grayish-brown lesions running parallel to leaf veins, eventually blending to kill entire leaves.",
+      "management": "Use resistant corn hybrids, practice crop rotation, tillage to bury residues, and apply foliar fungicides."
+    },
+    {
+      "name": "corn maize common rust",
+      "symptoms": "Powdery, reddish-brown pustules on both upper and lower leaf surfaces, causing early leaf death.",
+      "management": "Plant rust-resistant hybrids and apply fungicides early if disease pressure is high."
+    },
+    {
+      "name": "corn maize northern leaf blight",
+      "symptoms": "Large, cigar-shaped, grayish-green to tan lesions on leaves, starting on lower leaves.",
+      "management": "Rotate crops, till crop residue, plant resistant hybrids, and apply fungicides."
+    },
+    {
+      "name": "corn maize healthy",
+      "symptoms": "Robust stalks with deep green, long leaves and healthy ear development. No lesions or rust pustules.",
+      "management": "Maintain balanced nitrogen levels, manage weeds, and ensure proper irrigation."
+    },
+    {
+      "name": "grape black rot",
+      "symptoms": "Small round brown spots on leaves. Berries shrivel into hard, black, wrinkled mummies.",
+      "management": "Prune vines to open the canopy, remove all mummified berries, and apply fungicides from bud break through bloom."
+    },
+    {
+      "name": "grape esca black measles",
+      "symptoms": "Tiger-stripe patterns on leaves (interveinal yellowing/browning). Berries develop dark spots or shrivel.",
+      "management": "Protect pruning wounds, remove infected wood during dry weather, and use wound sealants."
+    },
+    {
+      "name": "grape leaf blight isariopsis leaf spot",
+      "symptoms": "Dark brown, irregular spots on leaves, which may dry up and drop prematurely.",
+      "management": "Apply copper fungicides, clean up fallen leaves in autumn, and improve canopy ventilation."
+    },
+    {
+      "name": "grape healthy",
+      "symptoms": "Vibrant green leaves, strong vines, and clean grape clusters free of shriveled berries.",
+      "management": "Prune during dormancy, fertilize based on soil tests, and maintain good weed control."
+    },
+    {
+      "name": "orange haunglongbing citrus greening",
+      "symptoms": "Yellow mottled leaves, stunted growth, and small, misshapen, green, bitter-tasting fruit.",
+      "management": "Control the Asian citrus psyllid vector, remove infected trees, and apply nutritional sprays to support vigor."
+    },
+    {
+      "name": "peach bacterial spot",
+      "symptoms": "Water-soaked spots on leaves that turn brown and drop out (shot-hole). Fruit shows dark spots and cracks.",
+      "management": "Plant resistant varieties, avoid excess nitrogen, and apply copper sprays in early spring."
+    },
+    {
+      "name": "peach healthy",
+      "symptoms": "Clean, unblemished leaves and smooth-skinned fruit. Stems show healthy new growth.",
+      "management": "Thin fruit to prevent overload, prune for airflow, and monitor for borers."
+    },
+    {
+      "name": "pepper bell bacterial spot",
+      "symptoms": "Small, circular, raised spots on leaves and fruit, causing leaf yellowing and defoliation.",
+      "management": "Use pathogen-free seed, rotate crops, avoid overhead watering, and apply copper bactericides."
+    },
+    {
+      "name": "pepper bell healthy",
+      "symptoms": "Dark green, upright plants with thick leaves and glossy, firm peppers.",
+      "management": "Keep soil evenly moist, fertilize with balanced nutrients, and stake plants for support."
+    },
+    {
+      "name": "potato early blight",
+      "symptoms": "Dark spots with concentric rings (target board pattern) on older leaves. Lower leaves turn yellow.",
+      "management": "Maintain high plant vigor, rotate crops, remove crop debris, and apply protective fungicides."
+    },
+    {
+      "name": "potato late blight",
+      "symptoms": "Dark, water-soaked leaf lesions with white mold on undersides in wet weather. Tubers rot.",
+      "management": "Plant certified disease-free seed, destroy volunteer potato plants, and apply preventive fungicides."
+    },
+    {
+      "name": "potato healthy",
+      "symptoms": "Lush green canopy and healthy vine growth. No lesions or mold present.",
+      "management": "Hill soil around plants, water at the base, and monitor closely during cool, wet periods."
+    },
+    {
+      "name": "raspberry healthy",
+      "symptoms": "Healthy green leaves, upright canes, and bright, sweet fruit clusters.",
+      "management": "Prune old fruiting canes, mulch to conserve moisture, and ensure good drainage."
+    },
+    {
+      "name": "soybean healthy",
+      "symptoms": "Bushy, deep green foliage with healthy pod development and no leaf spots or rust.",
+      "management": "Ensure proper spacing, rotate with corn or wheat, and inoculate seeds with rhizobia."
+    },
+    {
+      "name": "squash powdery mildew",
+      "symptoms": "White, powdery fungal spots spreading over leaves and stems, causing leaves to dry and wither.",
+      "management": "Ensure full sun exposure, prune for airflow, and apply potassium bicarbonate or neem oil sprays."
+    },
+    {
+      "name": "strawberry leaf scorch",
+      "symptoms": "Purplish spots on leaves that enlarge and turn dark brown, giving leaves a scorched appearance.",
+      "management": "Plant resistant cultivars, renovate beds after harvest, and avoid overhead watering."
+    },
+    {
+      "name": "strawberry healthy",
+      "symptoms": "Bright green leaves, clean white flowers, and plump, red berries.",
+      "management": "Mulch with straw, remove runners to maintain spacing, and water consistently."
+    },
+    {
+      "name": "tomato bacterial spot",
+      "symptoms": "Small, dark, greasy-looking spots on leaves and stems. Fruit develops raised, scabby spots.",
+      "management": "Use clean seed, rotate crops, avoid overhead watering, and apply copper-based sprays."
+    },
+    {
+      "name": "tomato early blight",
+      "symptoms": "Concentric black spots on older leaves, leading to yellowing and drop. Stem lesions can girdle seedlings.",
+      "management": "Mulch soil, prune lower leaves, rotate crops, and apply chlorothalonil or copper fungicides."
+    },
+    {
+      "name": "tomato late blight",
+      "symptoms": "Rapidly spreading large dark brown lesions on leaves and fruit with white fuzzy mold underneath in humid conditions.",
+      "management": "Remove and destroy infected plants immediately, choose resistant varieties, and apply preventive copper sprays."
+    },
+    {
+      "name": "tomato leaf mold",
+      "symptoms": "Pale green to yellow spots on upper leaf surfaces, with olive-green velvety mold on leaf undersides.",
+      "management": "Reduce humidity in greenhouses, improve airflow, and use resistant cultivars."
+    },
+    {
+      "name": "tomato septoria leaf spot",
+      "symptoms": "Numerous small, circular spots with dark borders and grey centers on lower leaves, causing severe defoliation.",
+      "management": "Avoid overhead watering, destroy infected crop residue, mulch, and apply fungicides."
+    },
+    {
+      "name": "tomato spider mites two spotted spider mite",
+      "symptoms": "Fine yellow speckling on leaves, followed by bronzing, drying, and fine webbing on leaves.",
+      "management": "Spray with insecticidal soap, introduce predatory mites, and keep plants well-watered."
+    },
+    {
+      "name": "tomato target spot",
+      "symptoms": "Small brown spots with concentric circles (targets) on leaves and fruit, causing premature leaf drop.",
+      "management": "Space plants well, prune lower foliage, and apply protective fungicides."
+    },
+    {
+      "name": "tomato yellow leaf curl virus",
+      "symptoms": "Stunted growth, leaves curl upwards and inwards, turning yellow at margins. Reduced fruit set.",
+      "management": "Control silverleaf whitefly vectors with row covers, yellow sticky traps, or insecticides, and plant resistant varieties."
+    },
+    {
+      "name": "tomato mosaic virus",
+      "symptoms": "Mottling light and dark green patterns on leaves, leaf distortion (shoestringing), and uneven ripening of fruit.",
+      "management": "Sanitize tools, wash hands with soap, plant resistant cultivars, and remove infected plants."
+    },
+    {
+      "name": "tomato healthy",
+      "symptoms": "Robust vines, dark green leaves, and vibrant red fruit with no spots, curling, or molds.",
+      "management": "Prune suckers, stake plants, water deeply at the base, and fertilize regularly."
+    },
+    {
+      "name": "background",
+      "symptoms": "The image does not show a recognizable plant leaf, or is out of focus.",
+      "management": "Please point the camera closer and focus on an infected plant leaf."
+    }
+  ]
+}
