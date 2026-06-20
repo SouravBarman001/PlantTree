@@ -55,7 +55,7 @@ class WeatherData {
 }
 
 class WeatherService {
-  final String _apiKey = dotenv.get('OPENWEATHER_API_KEY');
+  String get _apiKey => dotenv.get('OPENWEATHER_API_KEY');
 
   Future<WeatherData?> getLocalWeather() async {
     try {
